@@ -1,5 +1,5 @@
 variable "version_number" {
-  default = 1
+  default = 3
 }
 
 resource "random_pet" "this" {
